@@ -1,0 +1,39 @@
+# macOS system files
+.DS_Store
+
+# Node.js dependencies
+node_modules/
+
+# Next.js build output
+.next/
+
+# React.js build output
+build/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.sublime-*
+*.swp
+*.swo
+*.sublime-*
+
+# Log files
+*.log
+logs/
+
+# Redux Toolkit specific files
+src/app/store.js
+src/app/reducers/*.js
+
+# Ant Design specific files
+src/styles/antd.less
+
+# Material-UI specific files
+src/styles/muiTheme.js
+
+# Chakra UI specific files
+src/styles/chakraTheme.js
+
+# Tailwind CSS specific files
+src/styles/tailwind.css
